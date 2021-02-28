@@ -8,10 +8,10 @@
 git clone https://github.com/jbeast/python-amazon-seller-api.git
 ```
 
-2. Install the requirements (the `python-amazon-sp-api` library)
+2. Navigate into the newly cloned directory, and install the requirements (the `python-amazon-sp-api` library)
 
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 3. Add your credentials into `api.py`
